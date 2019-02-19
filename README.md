@@ -4,8 +4,7 @@ The process of building prediction models from the raw data of an animal shelter
 
 ## Exploratory data analysis
 
-For the EDA, I explored the ratings distributions in different ways (ratings for each category, number of ratings by user/movie, etc.) and also did some NLP to compare the movies summaries of good vs bad movies.
-
+For the EDA, I explored the most important variables and examined thier posssible relation to the prediction process. 
 
 
 ## Modeling
